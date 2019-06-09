@@ -21,8 +21,6 @@ import redis.clients.jedis.exceptions.JedisNoScriptException;
 /**
  * lua脚本执行类
  * 
- * @author NLP
- *
  */
 @Component
 public class LuaScriptUtils {
